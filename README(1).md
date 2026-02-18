@@ -195,7 +195,7 @@ Incluye:
 -   Resultado del resumen\
 -   Texto profesionalizado
 
-![Prueba 1](img/prueba1.png)
+![Prueba 1](img/Prueba 1.png)
 
 ------------------------------------------------------------------------
 
@@ -207,7 +207,7 @@ Incluye:
 -   Interacción cliente-vendedor\
 -   Respuestas generadas por el modelo
 
-![Prueba 2](img/prueba2.png)
+![Prueba 2](img/Prueba 2.png)
 
 ------------------------------------------------------------------------
 
